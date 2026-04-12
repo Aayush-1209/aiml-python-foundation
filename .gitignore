@@ -5,5 +5,16 @@
 **\*.csv
 .virtual_documents
 .ipynb_checkpoints
-**.html
+# **.html
 data
+
+.env
+.env.*
+
+
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
