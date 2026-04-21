@@ -11,7 +11,7 @@ data
 .env
 .env.*
 
-
+venv
 .DS_Store
 
 # Python cache
