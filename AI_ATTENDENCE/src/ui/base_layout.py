@@ -29,13 +29,13 @@ def style_base_layout():
                 @import url('https://fonts.googleapis.com/css2?family=Climate+Crisis:YEAR@1979&display=swap');
                 @import url('https://fonts.googleapis.com/css2?family=Climate+Crisis:YEAR@1979&family=Outfit:wght@100..900&display=swap');
                 /*Hide Top bar of streamlit*/
-                #MainMenu,footer ,header {
-                    visibility:hidden;
-                }
+                # #MainMenu,footer ,header {
+                #     visibility:hidden;
+                # }
                 
-                .block-container {
-                    padding-top :1.5rem
-                }
+                # .block-container {
+                #     padding-top :1.5rem
+                # }
                 
                 h1 {
                     font-family: 'Climate Crisis' , sans-serif !important;
@@ -46,6 +46,7 @@ def style_base_layout():
                 h2 {
                     font-family: 'Climate Crisis' , sans-serif !important;
                     font-size:2.5rem !important;
+                    line-height:0.9 !important
                     margin-bottom:0rem !important;
                 }
                 
