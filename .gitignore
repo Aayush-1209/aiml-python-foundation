@@ -12,7 +12,9 @@ data
 .env.*
 
 venv
+*.pvc
 .DS_Store
+.streamlit/
 
 # Python cache
 __pycache__/
