@@ -1,0 +1,12 @@
+.env
+.env.*
+
+venv
+*.pvc
+.DS_Store
+.streamlit/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
